@@ -1,1 +1,2 @@
 # odin-recipes
+This is my up to date odin recipes project that I will be working on. I have already nearly felt like an idiot because I found out that I was trying to look in the wrong directory, when trying to open new directories and such and could only seem to do it through VScode. Always remember your current directory on terminal :D
